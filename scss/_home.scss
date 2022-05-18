@@ -1,0 +1,14 @@
+#home {
+    //home sec 1
+
+    &__a {
+        .skills{
+            display: flex;
+        }
+
+        i {
+            color: $primary-color;
+            padding-bottom: 0.5rem;
+        }
+    }
+}
